@@ -1,0 +1,1 @@
+In file p2.py, some train and test data (x,y) is generated using the predefined functions. Write a python program for simple linear regression using the gradient descent algorithm for estimation of slope and intercept. Show the results in the form of a graph. Write a function to calculate the R-squared value of your model. Comment on the the calculated R-squared value.

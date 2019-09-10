@@ -1,0 +1,1 @@
+In file p1.py, random data (x,y) is given. Write a python program for simple linear regression using the formula for calculation of slope and intercept. Show the results in the form of a graph. Write a function to calculate the R-squared goodness of fit value of your model. Comment on your model for the calculated R-squared value.
